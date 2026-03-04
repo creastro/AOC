@@ -1,5 +1,5 @@
 # AOC
-Python code for AOC
+Python code for analyzing AOC (Adaptive Optics system at Calern) near-infrared images (NINOX camera)
 
 ## Installation
 ```bash
